@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cabrera Samith;Diego;Alberto;Dr.;
+FN:Dr. Diego Cabrera Samith
+ORG:Clínica Refugio
+TITLE:Cirujano Facial - Cirujano Maxilofacial
+TEL;TYPE=CELL,VOICE:+56966890318
+TEL;TYPE=WORK,VOICE:+56996973364
+EMAIL;TYPE=INTERNET,WORK:drcirugiafacial@gmail.com
+ADR;TYPE=WORK:;Oficina 1004;Dr. Manuel Barros Borgoño 71;Providencia;Regió
+ n Metropolitana;;Chile
+URL:https://REEMPLAZAR-URL.github.io/refugio/
+NOTE:Clínica Refugio - Clínica dental. WhatsApp clínica: +56 9 9697 3364
+END:VCARD
